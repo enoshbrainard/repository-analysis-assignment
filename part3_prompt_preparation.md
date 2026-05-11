@@ -10,7 +10,7 @@ PR Link: https://github.com/aio-libs/aiokafka/pull/115
 
 aiokafka is a Python library used to work with Apache Kafka using async programming. It helps Python applications send and receive Kafka messages without blocking the program execution. The library is built using Python asyncio.
 
-This repository is mainly used by backend developers who build distributed systems, microservices, and real-time applications. Instead of directly connecting services together, applications can exchange events and messages through Kafka.
+This repository is mostly used by backend developers who build distributed systems, microservices, and real-time applications. Instead of directly connecting services together, applications can exchange events and messages through Kafka.
 
 The repository contains:
 - Kafka consumers
