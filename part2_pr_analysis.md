@@ -1,4 +1,4 @@
-````md
+
 # Part 2: Pull Request Analysis
 
 Repository: https://github.com/aio-libs/aiokafka
@@ -185,4 +185,4 @@ Without this fix, standalone consumers could miss newly created topics unless th
 # Integrity Declaration
 
 "I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words."
-````
+
